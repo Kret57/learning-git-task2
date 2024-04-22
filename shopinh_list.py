@@ -13,3 +13,4 @@ for shop, items in shoping_list.items():
     print(f"Ide do {Shop} i kupije tam {' '.join(Item)}")
 print(f"W sumie kupuje {number_of_items} produktow")
 #first change
+#second change
